@@ -56,16 +56,9 @@ https://colab.research.google.com/github/mtchynkstff/parenting-styles/blob/main/
 
 ## Embedded Figures
 
-```markdown
 ![Sources](https://github.com/mtchynkstff/parenting-styles/blob/main/reports/figures/download-1.png?raw=true)
 ![Challenges](https://github.com/mtchynkstff/parenting-styles/blob/main/reports/figures/download-2.png?raw=true)
-```
 
-Absolute path version:
-
-```markdown
-![Sources](https://github.com/mtchynkstff/parenting-styles/blob/main/reports/figures/sources_info.png?raw=true)
-```
 
 ## Helper Functions
 
